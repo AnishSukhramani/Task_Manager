@@ -1,10 +1,5 @@
 import {
-	ChevronDown,
-	NotificationsOutline,
-	PersonCircle,
 	SearchOutline,
-	SettingsOutline,
-	ShareSocialOutline,
 } from "react-ionicons";
 
 const Navbar = () => {
